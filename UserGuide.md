@@ -1,5 +1,5 @@
 # Guide for User
-This page is used to give you first sense of what is RODPS , and also show you how to install and use it. If you want to modify the source code to make it better , please click [DeveloperGuide](http://gitlab.alibaba-inc.com/aliopensource/aliyun-odps-r-plugin/wikis/DeveloperGuide) for help.
+This page is used to give you first sense of what is RODPS , and also show you how to install and use it. If you want to modify the source code to make it better , please click [DeveloperGuide](https://github.com/yaoweidong/aliyun-odps-r-plugin/blob/master/DeveloperGuide.md) for help.
 
 
 ### Details
