@@ -24,9 +24,9 @@ Please make sure the environment variable RODPS_CONFIG is set, it's in the same 
 - RSQLite
 
 ### Guide
-If you just want to use ROdps package, click [UserGuide](http://github.com/aliopensource/aliyun-odps-r-plugin/wikis/UserGuide) for detailed help.
+If you just want to use ROdps package, click [UserGuide](https://github.com/yaoweidong/aliyun-odps-r-plugin/blob/master/UserGuide.md) for detailed help.
 
-If you want to modify the source code to make it better , please click [DeveloperGuide](http://github.com.com/aliopensource/aliyun-odps-r-plugin/wikis/DeveloperGuide) for help.
+If you want to modify the source code to make it better , please click [DeveloperGuide](https://github.com/yaoweidong/aliyun-odps-r-plugin/blob/master/DeveloperGuide.md) for help.
  	
 
 ## Authors && Contributors
