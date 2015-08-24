@@ -31,8 +31,9 @@ If you want to modify the source code to make it better , please click [Develope
 
 ## Authors && Contributors
 
-- [Yang Hongbo](https://github.com/hongbosoftware)
 - [Yao Weidong](https://github.com/yaoweidong)
+- [Yang Hongbo](https://github.com/hongbosoftware)
+
 
 ## License
 
