@@ -1,6 +1,6 @@
 # Guide for Developer
 This page is used to show you how to download RODPS source code,and how to build for your own using.
-If you just want to use ROdps package, click [UserGuide](http://gitlab.alibaba-inc.com/aliopensource/aliyun-odps-r-plugin/wikis/UserGuide) for detailed help.
+If you just want to use ROdps package, click [UserGuide](https://github.com/yaoweidong/aliyun-odps-r-plugin/blob/master/UserGuide.md) for detailed help.
 
 ### Requirements
 
