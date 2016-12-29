@@ -24,9 +24,7 @@ access_key=*******************
 end_point=http://service.odps.aliyun-inc.com/api
 dt_end_point=http://dt.odps.aliyun-inc.com/
 
-#access from internal network
-end_point=http://service-corp.odps.aliyun-inc.com/api
-dt_end_point=http://dt-corp.odps.aliyun-inc.com/
+
 
 #set path for log4j.properties,or don't configure for using our default setting
 log4j_properties=
@@ -101,8 +99,7 @@ log4j_properties=
 
 ### Authors && Contributors
 
-- [Yang Hongbo](https://github.com/hongbosoftware)
-- [Yao Weidong](https://github.com/yaoweidong)
+
 
 ### License
 
